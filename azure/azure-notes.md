@@ -1,5 +1,5 @@
 
-# Benefits of using Azure
+## Benefits of using Azure
 - Agility
     - Capacity
 - High Availability
@@ -7,20 +7,20 @@
     - Partition Tolerance?
     - Scalability (elasticity) - This can be good for seasonality
 
-# Types of Scaling
+## Types of Scaling
 1. Horizontal (scale in/out)
 2. Vertical (scale up/down)
 
-# Azure Services and Location
+## Azure Services and Location
 Cloud > Azure > Regions > Data centers
 
-# Cap-Ex vs Op-Ex | Consumption Model
+## Cap-Ex vs Op-Ex | Consumption Model
 Cap-Ex = bought up-front  
 Op-Ex - Subscription based | Paid Ongoing as it is used. | "Consumption Based"  
 
 In a consumption based model you only pay for what you use.  
 
-# Categories of Azure Services
+## Categories of Azure Services
 **The Tech Stack**
 Data  
 Application  
